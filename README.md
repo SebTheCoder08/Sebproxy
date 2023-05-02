@@ -14,7 +14,7 @@ SebProxy V3 is one of the best modern unblocked game sites. Check it out <a href
   
 ### Free Services
 
- Interstellar will not work on Vercel, Netlify or Cloudflare Pages.
+ Sebproxy V3 will not work on Vercel, Netlify or Cloudflare Pages.
 
 <a target="_blank" href="https://replit.com/github/interstellarnetwork/interstellar-deployable"><img alt="Run on Replit" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg"></a>
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/interstellarnetwork/interstellar-deployable)
